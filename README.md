@@ -40,8 +40,7 @@ To get a local copy up and running, follow these simple steps.
 1.  **Clone the Repository (or download the files):**
     If this were a Git repository, you would clone it:
     ```bash
-    git clone [YOUR_REPOSITORY_URL_HERE] # Replace with your GitHub URL if applicable
-    cd fantasy-gallery
+    git clone [FANTASY](https://github.com/gkmfrombs/fantasy-gallery) 
     ```
     Alternatively, if you downloaded the project files as a ZIP:
     Unzip the `fantasy-gallery.zip` file to your desired location.
@@ -86,7 +85,7 @@ This project is deployed as a static website on Azure Blob Storage.
 
 ## 🧑‍💻 Author
 
-[Your Name Here] (e.g., "Girish Kumar")
+[Guddu Mishra ] 
 
 ---
 
